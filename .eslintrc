@@ -45,10 +45,6 @@
         "selector": "variable"
       },
       {
-        "format": ["UPPER_CASE", "PascalCase"],
-        "selector": "enum"
-      },
-      {
         "format": ["camelCase"],
         "selector": ["classMethod", "classProperty", "function", "parameter", "variable"]
       },
